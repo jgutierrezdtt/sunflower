@@ -128,6 +128,7 @@ dependencies {
   implementation(libs.hilt.android)
   implementation(libs.hilt.navigation.compose)
   implementation(libs.androidx.profileinstaller)
+  implementation("com.indigitall:android:5.7.1")
 
   // Compose
   implementation(platform(libs.androidx.compose.bom))
